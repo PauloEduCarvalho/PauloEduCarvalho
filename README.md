@@ -8,8 +8,7 @@
 ![Paulo Eduardo Pereira Carvalho](https://github-readme-stats.vercel.app)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloEduCarvalho&layout=compact&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloEduCarvalho&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=PauloEduCarvalho&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
