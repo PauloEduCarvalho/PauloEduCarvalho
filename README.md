@@ -5,6 +5,8 @@
 
 ## GitHub Stats
 
+![Paulo Eduardo Pereira Carvalho](https://github-readme-stats.vercel.app)
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloEduCarvalho&layout=compact&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloEduCarvalho&show_icons=true&theme=tokyonight"/>
@@ -22,8 +24,8 @@
 <div> 
   <a href = "mailto:paulo.carvalho010504@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-eduardo-carvalho0105/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+
 ## Technologies
 - Java
 - Spring Boot
