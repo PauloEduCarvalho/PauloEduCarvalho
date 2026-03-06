@@ -1,16 +1,29 @@
-## Hi there 👋
+# Paulo Carvalho
 
-<!--
-**PauloEduCarvalho/PauloEduCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student  
+🚀 Backend Developer | Java | Spring Boot
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloEduCarvalho&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloEduCarvalho&layout=compact)
+
+## Technologies
+- Java
+- Spring Boot
+- Python
+- SQL
+- Docker
+- Git
+
+## Interests
+- Backend Development
+- Distributed Systems
+- Artificial Intelligence
+- Machine Learning
+
+## Projects
+- REST APIs with Spring Boot
+- Machine Learning experiments
+- Multi-agent AI systems
